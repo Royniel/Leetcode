@@ -1,4 +1,4 @@
-//moving zeroes to the last of the array while keeping the relative order of the non-zeroes.
+//its a two pointer problem, moving zeroes to the last of the array while keeping the relative order of the non-zeroes.
 
 class Solution {
     public void moveZeroes(int[] nums) {
